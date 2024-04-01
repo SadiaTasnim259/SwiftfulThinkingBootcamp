@@ -11,6 +11,7 @@
 		04017C6D2BB3EF1A0099D176 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04017C6C2BB3EF1A0099D176 /* ContentView.swift */; };
 		04017C6F2BB3EF1D0099D176 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04017C6E2BB3EF1D0099D176 /* Assets.xcassets */; };
 		04017C722BB3EF1D0099D176 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04017C712BB3EF1D0099D176 /* Preview Assets.xcassets */; };
+		0421ED462BBA87080022E182 /* EnumBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0421ED452BBA87080022E182 /* EnumBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		04017C6C2BB3EF1A0099D176 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04017C6E2BB3EF1D0099D176 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04017C712BB3EF1D0099D176 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0421ED452BBA87080022E182 /* EnumBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				04017C6A2BB3EF1A0099D176 /* SwiftfulThinkingBootcampApp.swift */,
+				0421ED452BBA87080022E182 /* EnumBootcamp.swift */,
 				04017C6C2BB3EF1A0099D176 /* ContentView.swift */,
 				04017C6E2BB3EF1D0099D176 /* Assets.xcassets */,
 				04017C702BB3EF1D0099D176 /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0421ED462BBA87080022E182 /* EnumBootcamp.swift in Sources */,
 				04017C6D2BB3EF1A0099D176 /* ContentView.swift in Sources */,
 				04017C6B2BB3EF1A0099D176 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 			);
