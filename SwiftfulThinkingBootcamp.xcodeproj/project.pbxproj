@@ -12,6 +12,8 @@
 		04017C6F2BB3EF1D0099D176 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04017C6E2BB3EF1D0099D176 /* Assets.xcassets */; };
 		04017C722BB3EF1D0099D176 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04017C712BB3EF1D0099D176 /* Preview Assets.xcassets */; };
 		0421ED462BBA87080022E182 /* EnumBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0421ED452BBA87080022E182 /* EnumBootcamp.swift */; };
+		04D1A3FF2BCE50D7009C93A1 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D1A3FE2BCE50D7009C93A1 /* ForEachBootcamp.swift */; };
+		04D1A4012BD01D4C009C93A1 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D1A4002BD01D4C009C93A1 /* ScrollViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		04017C6E2BB3EF1D0099D176 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04017C712BB3EF1D0099D176 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0421ED452BBA87080022E182 /* EnumBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumBootcamp.swift; sourceTree = "<group>"; };
+		04D1A3FE2BCE50D7009C93A1 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		04D1A4002BD01D4C009C93A1 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 			children = (
 				04017C6A2BB3EF1A0099D176 /* SwiftfulThinkingBootcampApp.swift */,
 				0421ED452BBA87080022E182 /* EnumBootcamp.swift */,
+				04D1A4002BD01D4C009C93A1 /* ScrollViewBootcamp.swift */,
+				04D1A3FE2BCE50D7009C93A1 /* ForEachBootcamp.swift */,
 				04017C6C2BB3EF1A0099D176 /* ContentView.swift */,
 				04017C6E2BB3EF1D0099D176 /* Assets.xcassets */,
 				04017C702BB3EF1D0099D176 /* Preview Content */,
@@ -141,6 +147,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				0421ED462BBA87080022E182 /* EnumBootcamp.swift in Sources */,
+				04D1A3FF2BCE50D7009C93A1 /* ForEachBootcamp.swift in Sources */,
+				04D1A4012BD01D4C009C93A1 /* ScrollViewBootcamp.swift in Sources */,
 				04017C6D2BB3EF1A0099D176 /* ContentView.swift in Sources */,
 				04017C6B2BB3EF1A0099D176 /* SwiftfulThinkingBootcampApp.swift in Sources */,
 			);
