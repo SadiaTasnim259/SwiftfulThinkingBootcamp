@@ -20,8 +20,8 @@ struct GridBootcamp: View {
             Rectangle()
                 .fill(Color("rectangle"))
                 .frame(height: 400)
+            
             LazyVGrid(columns: columns, alignment: .center, spacing: 6, pinnedViews: [.sectionHeaders]) {
-
 
                 Section {
                     ForEach(0..<21) { index in
@@ -45,8 +45,6 @@ struct GridBootcamp: View {
 //                        .background(Color("sectionColor"))
 //                        .padding()
 //                }
-
-              
 
                 Section {
                     ForEach(0..<21) { index in
