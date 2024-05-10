@@ -9,21 +9,36 @@ import SwiftUI
 
 struct ButtonBootcamp: View {
     var body: some View {
-        Button {
-            
-        } label: {
-            Circle()
-                .foregroundColor(.white)
-                .frame(width: 75, height: 75)
-                .shadow(radius: 10)
-                .overlay {
-                    Image(systemName: "heart.fill")
-                        .font(.largeTitle)
-                        .foregroundColor(Color("cayenne"))
-                }
+        VStack (spacing: 50){
+            Button {
                 
+            } label: {
+                Circle()
+                    .foregroundColor(.white)
+                    .frame(width: 75, height: 75)
+                    .shadow(radius: 10)
+                    .overlay {
+                        Image(systemName: "heart.fill")
+                            .font(.largeTitle)
+                            .foregroundColor(Color("cayenne"))
+                    }
+            }
+            
+            Button {
+                
+            } label: {
+                Text("FINISH")
+                    .font(.title)
+                    .fontWeight(.bold)
+                    .foregroundColor(.gray)
+                    .padding()
+                    .background(
+                        Capsule()
+                            .stroke(Color.gray, lineWidth: 2.0)
+                    )
+            }
         }
-
+        
     }
 }
 
