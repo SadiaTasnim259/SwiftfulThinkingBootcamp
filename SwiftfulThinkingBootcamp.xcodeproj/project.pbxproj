@@ -14,6 +14,8 @@
 		041713652C0C19740046A1A0 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041713642C0C19740046A1A0 /* GeometryReaderBootcamp.swift */; };
 		0421ED462BBA87080022E182 /* EnumBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0421ED452BBA87080022E182 /* EnumBootcamp.swift */; };
 		0479D4E12C0EDC5100D397D7 /* NavigationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0479D4E02C0EDC5100D397D7 /* NavigationBootcamp.swift */; };
+		0479D4E32C0EFF8B00D397D7 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0479D4E22C0EFF8B00D397D7 /* TabViewBootcamp.swift */; };
+		0479D4E52C0F086000D397D7 /* PageTabViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0479D4E42C0F086000D397D7 /* PageTabViewStyle.swift */; };
 		04836CFE2BEE6955008C43F0 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04836CFD2BEE6955008C43F0 /* ButtonBootcamp.swift */; };
 		0484D0602C08567200C4FCF0 /* BindingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0484D05F2C08567200C4FCF0 /* BindingView.swift */; };
 		048CCAF92BD0C1CB00C12685 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048CCAF82BD0C1CB00C12685 /* GridBootcamp.swift */; };
@@ -32,6 +34,8 @@
 		041713642C0C19740046A1A0 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
 		0421ED452BBA87080022E182 /* EnumBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumBootcamp.swift; sourceTree = "<group>"; };
 		0479D4E02C0EDC5100D397D7 /* NavigationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBootcamp.swift; sourceTree = "<group>"; };
+		0479D4E22C0EFF8B00D397D7 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
+		0479D4E42C0F086000D397D7 /* PageTabViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTabViewStyle.swift; sourceTree = "<group>"; };
 		04836CFD2BEE6955008C43F0 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		0484D05F2C08567200C4FCF0 /* BindingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingView.swift; sourceTree = "<group>"; };
 		048CCAF82BD0C1CB00C12685 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
@@ -82,6 +86,8 @@
 				0484D05F2C08567200C4FCF0 /* BindingView.swift */,
 				041713642C0C19740046A1A0 /* GeometryReaderBootcamp.swift */,
 				0479D4E02C0EDC5100D397D7 /* NavigationBootcamp.swift */,
+				0479D4E22C0EFF8B00D397D7 /* TabViewBootcamp.swift */,
+				0479D4E42C0F086000D397D7 /* PageTabViewStyle.swift */,
 				04017C6E2BB3EF1D0099D176 /* Assets.xcassets */,
 				04017C702BB3EF1D0099D176 /* Preview Content */,
 				048CCAFA2BD1165E00C12685 /* ListViewBootcamp.swift */,
@@ -168,11 +174,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				041713652C0C19740046A1A0 /* GeometryReaderBootcamp.swift in Sources */,
+				0479D4E32C0EFF8B00D397D7 /* TabViewBootcamp.swift in Sources */,
 				0421ED462BBA87080022E182 /* EnumBootcamp.swift in Sources */,
 				04D1A3FF2BCE50D7009C93A1 /* ForEachBootcamp.swift in Sources */,
 				0484D0602C08567200C4FCF0 /* BindingView.swift in Sources */,
 				0479D4E12C0EDC5100D397D7 /* NavigationBootcamp.swift in Sources */,
 				04D1A4012BD01D4C009C93A1 /* ScrollViewBootcamp.swift in Sources */,
+				0479D4E52C0F086000D397D7 /* PageTabViewStyle.swift in Sources */,
 				04017C6D2BB3EF1A0099D176 /* ContentView.swift in Sources */,
 				04836CFE2BEE6955008C43F0 /* ButtonBootcamp.swift in Sources */,
 				048CCAF92BD0C1CB00C12685 /* GridBootcamp.swift in Sources */,
